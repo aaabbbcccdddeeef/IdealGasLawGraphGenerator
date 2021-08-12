@@ -1,1 +1,1 @@
-# IdealGasLawGraphGenerator
+# Ideal Gas Law Graph Generator
